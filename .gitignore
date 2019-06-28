@@ -1,3 +1,39 @@
+#Android generated
+bin
+gen
+
+#Eclipse
+.project
+.classpath
+
+#IntelliJ IDEA
+build/
+.idea/
+*.iml
+*.ipr
+*.iws
+out
+
+#Gradle
+.gradle/
+
+#Maven
+target
+release.properties
+pom.xml.*
+project.properties
+
+#Ant
+build.xml
+local.properties
+proguard.cfg
+
+#MACOS
+.DS_Store
+
+#Android
+*.keystore
+
 # Built application files
 *.apk
 *.ap_
